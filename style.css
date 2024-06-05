@@ -1,0 +1,34 @@
+
+h1 {
+    font-size: 5em;
+    font-style: oblique; 
+    text-align: center;
+    font-style: italic;
+
+}
+h2 {
+    font-size: 1em;
+    text-align: center;
+}
+p {
+    font-size: 2.5em;
+    text-align: center;
+}
+ul {
+    font-size: 2em;
+    text-align: center;
+    list-style-type: none;
+}
+a {
+    font-size: 1em;
+    text-align: center;
+    color: black
+}
+body{
+    background-image: url(02.png);
+    background-color: #ffd1dc;
+    font-family: 'Jetbrains Mono', sans-serif; 
+    color: black;
+    margin: 10px;
+
+} 
